@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="course/format/revitim/db" VERSION="2024060100" COMMENT="Install XML for revitim format">
+    <TABLES>
+        <!-- Add tables here if needed -->
+    </TABLES>
+</XMLDB> 
